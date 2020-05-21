@@ -1,0 +1,27 @@
+{
+ "aliases":{},
+ "auto_channels":{
+  "712930407762362439":{
+   "secondaries":{}
+  },
+  "712939636783317022":{
+   "secondaries":{
+    "712952899164176394":{
+     "creator":428233517483425793,
+     "tc":712952901172985938,
+     "tcr":712952900380262451
+    }
+   }
+  }
+ },
+ "channel_name_template":"## [@@game_name@@]",
+ "enabled":true,
+ "guild_name":"Crew",
+ "last_activity":1590051617,
+ "last_channel":712682374793527420,
+ "left":false,
+ "prefix":"!",
+ "requiredrole":"",
+ "server_contact":428233517483425793,
+ "text_channels":true
+}
