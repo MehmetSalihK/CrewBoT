@@ -48,3 +48,5 @@ python3 -m pip install -r requirements.txt
 ## Help:
 
 [Join the support server](https://discord.gg/HT6GNhJ) and ask, or [open an issue](https://github.com/gregzaal/Auto-Voice-Channels/issues).
+
+[![Run on Repl.it](https://repl.it/badge/github/MehmetSalihK/CrewBoT)](https://repl.it/github/MehmetSalihK/CrewBoT)
